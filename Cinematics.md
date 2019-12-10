@@ -1,13 +1,13 @@
 ## Cinematics
 
 ---
-[Bio & Interests](https://github.com/dretw25/AboutMe.git)
+[**Bio & Interests**](https://github.com/dretw25/AboutMe.git)
 
-[Photography]()
+[**Photography**](Photography.md)
 
-[Music]()
+[**Music**]()
 
-[Animation]()
+[**Animation**]()
 
 ---
 Along with, wanting to work on film as a cinematographer, director, and editor, I also want to be an actor as well. I have already acted in a few films, such as student films for undergraduate students, as well as capstone films. I was also an extra for a filmmaker's feature titled _Bleeders._ Though I haven't had much acting experience in many professional films, I hope to expand my portfolio and be able to audition for a large role that may be my great **_debut_** role.
