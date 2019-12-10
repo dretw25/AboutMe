@@ -1,7 +1,7 @@
 ## Bio & Interests
 
 ---
-[**Cinematics**]()
+[**Cinematics**](Cinematics)
 
 [**Photography**]()
 
