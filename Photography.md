@@ -3,7 +3,9 @@
 ---
 [**Bio & Interests**](https://github.com/dretw25/AboutMe.git)
 
-[**Cinematics**]()
+[**Cinematics**](Cinematics.md)
+
+[**Music**]()
 
 [**Animation**]()
 
