@@ -1,7 +1,7 @@
 ## Bio & Interests
 
 ---
-[**Cinematics**](Cinematics)
+[**Cinematics**](Cinematics.md)
 
 [**Photography**]()
 
@@ -19,4 +19,4 @@ I am a senior at the University of Missouri, currently majoring in film studies.
 * [*Open Up For Once*](http://img.youtube.com/vi/Ee9yi0o6mWA/0.jpg)(http://www.youtube.com/watch?v=Ee9yi0o6mWA)
 * [*Ex-Terror Pt.1*](http://img.youtube.com/vi/tCDGg0Oummg/0.jpg)(https://www.youtube.com/watch?v=tCDGg0Oummg)
 
-You can find more work of videos on the [cinematics]() page.
+You can find more work of videos on the [cinematics](Cinematics.md) page.
