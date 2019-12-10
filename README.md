@@ -1,9 +1,12 @@
 ## Bio & Interests
 
 ---
-[**Cinematics**](/Users/dre/Documents/GitHub/AboutMe/Cinematics)
+[**Cinematics**]()
+
 [**Photography**]()
+
 [**Music**]()
+
 [**Animation**]()
 
 ---
