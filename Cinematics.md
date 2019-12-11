@@ -1,7 +1,7 @@
 ## Cinematics
 
 ---
-[**Bio & Interests**](https://github.com/dretw25/AboutMe.git)
+[**Bio & Interests**](https://dretw25.github.io/AboutMe/)
 
 [**Photography**](Photography.md)
 
