@@ -5,9 +5,9 @@
 
 [**Photography**](Photography.md)
 
-[**Music**]()
+[**Music**](Music.md)
 
-[**Animation**]()
+[**Animation**](Animation.md)
 
 ---
 **DeAndre Winters**
