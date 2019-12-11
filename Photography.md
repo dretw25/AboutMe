@@ -5,9 +5,9 @@
 
 [**Cinematics**](Cinematics.md)
 
-[**Music**]()
+[**Music**](Music.md)
 
-[**Animation**]()
+[**Animation**](Animation.md)
 
 ---
 I have been doing photography since tha age of about 15. I would shoot photos of people with dslr cameras, iphone cameras, etc.; it would basically be with any camera I could get my hands on. Upon reaching college and having to decide on a major, I chose to make photography a part of my career. With plans of starting my own production company, I will incorporate photography into my line of work as well. I have previously done photo-shoots for events, graduations, and miscellaneous shoots.
