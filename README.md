@@ -3,7 +3,7 @@
 ---
 [**Cinematics**](Cinematics.md)
 
-[**Photography**]()
+[**Photography**](Photography.md)
 
 [**Music**]()
 
