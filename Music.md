@@ -7,7 +7,7 @@
 
 [**Photography**](Photography.md)
 
-[**Animation**]()
+[**Animation**](Animation.md)
 
 ---
 I also have an interest in music that arose in my early youth. Since then, I expressed interest in wanting to make music, as well as my love for listening to all different genres. Once I reached the end of middle school, I had begun making music with a couple of friends, dropped the craft for a while, then later picked it back up before entering college. This hobby soon led to releasing a [**_collaboration project_**](https://soundcloud.com/g3nosavage/sets/open-house) with a friend on streaming platforms. I am currently working on new projects and have one process of being released. 
